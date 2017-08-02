@@ -1,4 +1,4 @@
-# prime
+# Vuejs Tweet
 
 > A Vue.js project
 
