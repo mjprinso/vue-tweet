@@ -2,9 +2,9 @@
 
 > A simple Vue.js project which implements the tweet feature (some) using bootstrap and font-awesome.
 <p align="center">
-    <img src="src/assets/tweet.PNG">
+    <img src="src/assets/tweet.PNG" width="350">
 </p>
-<br>
+
 <p>
     The fetaures implemented are: 
     <ul>
