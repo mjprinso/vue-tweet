@@ -1,6 +1,27 @@
 # Vuejs Tweet
+<img src="src/assets/tweet.PNG" width="150">
 
-> A Vue.js project
+> A simple Vue.js project which implements the tweet feature (some) using bootstrap and font-awesome.
+<p>
+    The fetaures implemented are: 
+    <ul>
+        <li>Disabling tweet button when no character is typed.</li> 
+        <li>Disabling tweet button when character limit is reached.</li> 
+        <li>User can attach multiple pictures to tweet</li> 
+        <li>User can delete attached pictures</li> 
+    </ul>
+</p>
+
+<p>
+    The fetaures to be implemented are: 
+    <ul>
+        <li>Check-in feature, denoted by location button.</li> 
+        <li>The GIF feature.</li> 
+        <li>The polls feature, denoted by the graph button.</li> 
+    </ul>
+</p>
+
+> credit: <a href="https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77" target="_blank"> vue-js-introduction-for-people-who-know-just-enough-jquery</a>
 
 ## Build Setup
 
